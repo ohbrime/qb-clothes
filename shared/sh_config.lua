@@ -4,7 +4,7 @@ Config = {
     MinMoney = 249, 
     Money = 250,
     Debug = true,
-    PolyDebug = true,
+    PolyDebug = false,
     
     Locations = {
         ["clothing"] = {
