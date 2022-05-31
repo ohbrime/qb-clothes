@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Brime'
+author 'Brime#0001'
 description 'Edited version of Enzo-DC working with PolyZones'
-version '1.0'
+version '1.0.0'
 
 shared_scripts {
     'shared/sh_config.lua'
